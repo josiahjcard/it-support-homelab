@@ -57,3 +57,9 @@ Each office can contain its own departmental Organizational Units while allowing
 ## Outcome
 
 Successfully created a scalable Organizational Unit structure that resembles a real enterprise Active Directory environment.
+
+## Screenshots
+
+![Active Directory Users and Computers - Default State](Screenshots/Lab03-ActiveDirectory-Before.png)
+
+![Completed Bounty Technologies OU Structure](Screenshots/Lab03-Organizational-Units.png)
