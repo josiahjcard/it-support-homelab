@@ -65,14 +65,14 @@ DC01 is now the first domain controller and DNS server for the bounty.local doma
 
 ## Screenshots
 
-![AD DS role installation](../Screenshots/Lab02-ADDS-Role-Installation.png)
+![AD DS role installation](Screenshots/Lab02-ADDS-Role-Installation.png)
 
-![Domain controller options](../Screenshots/Lab02-Domain-Controller-Options.png)
+![Domain controller options](Screenshots/Lab02-Domain-Controller-Options.png)
 
-![DNS options](../Screenshots/Lab02-DNS-Options.png)
+![DNS options](Screenshots/Lab02-DNS-Options.png)
 
-![Additional options](../Screenshots/Lab02-Additional-Options.png)
+![Additional options](Screenshots/Lab02-Additional-Options.png)
 
-![Prerequisites check](../Screenshots/Lab02-Prerequisites-Check.png)
+![Prerequisites check](Screenshots/Lab02-Prerequisites-Check.png)
 
-![Server Manager verification](../Screenshots/Lab02-Server-Manager-Verification.png)
+![Server Manager verification](Screenshots/Lab02-Server-Manager-Verification.png)
