@@ -23,7 +23,7 @@ After assigning the static IPv4 configuration, connectivity was verified from Co
 
 Both ping tests returned four successful replies with 0% packet loss.
 
-![Static IP and connectivity tests](../Screenshots/Lab01-Static-IP.png)
+![Static IP and connectivity tests](Screenshots/Lab01-Static-IP.png)
 
 ### DNS Resolution Test
 
