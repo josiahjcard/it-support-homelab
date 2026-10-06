@@ -67,6 +67,8 @@ DC01 is now the first domain controller and DNS server for the bounty.local doma
 
 ![AD DS role installation](Screenshots/Lab02-ADDS-Role-Installation.png)
 
+![Deployment configuration - New Forest](Screenshots/Lab02-New-Forest.png)
+
 ![Domain controller options](Screenshots/Lab02-Domain-Controller-Options.png)
 
 ![DNS options](Screenshots/Lab02-DNS-Options.png)
